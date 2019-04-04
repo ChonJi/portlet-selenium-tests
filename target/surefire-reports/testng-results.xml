@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.MainPageTest" duration-ms="5613" started-at="2019-04-04T08:47:39Z" finished-at="2019-04-04T08:47:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5613" started-at="2019-04-04T08:47:39Z" finished-at="2019-04-04T08:47:45Z">
+      <class name="tests.MainPageTest">
+        <test-method status="PASS" signature="setUpTests()[pri:0, instance:tests.MainPageTest@180bc464]" name="setUpTests" is-config="true" duration-ms="3793" started-at="2019-04-04T08:47:36Z" finished-at="2019-04-04T08:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTests -->
+        <test-method status="PASS" signature="shouldGoOnMainPage()[pri:0, instance:tests.MainPageTest@180bc464]" name="shouldGoOnMainPage" duration-ms="5541" started-at="2019-04-04T08:47:39Z" finished-at="2019-04-04T08:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGoOnMainPage -->
+        <test-method status="PASS" signature="tearDownDriver()[pri:0, instance:tests.MainPageTest@180bc464]" name="tearDownDriver" is-config="true" duration-ms="888" started-at="2019-04-04T08:47:45Z" finished-at="2019-04-04T08:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDriver -->
+      </class> <!-- tests.MainPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.MainPageTest -->
+</testng-results>
